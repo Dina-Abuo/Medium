@@ -1,0 +1,7 @@
+.footer {
+  color: white;
+  background-color: var(--navColor);
+  height: 9vh;
+  align-items: center;
+  justify-content: center;
+}
